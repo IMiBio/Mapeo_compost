@@ -1,7 +1,8 @@
-Nombre,Latitude,Longitude,Estado,Encargado,Puesto o área responsable,Tipo de ícono
-Iguazú Jungle Lodge,-25.5942571078592,-54.56573593799094,Avanzado,,,Verde
-O2 Hotel Iguazú,-25.59405831122269,-54.57507582702551,Avanzado,Heriberto Martínez,Encargado de Mantenimiento,Verde
-Loi Suites Iguazú,-25.59645723230778,-54.545.534.704.857.800,Avanzado,,,Verde
-Yvy,-25.61023698506977,-54.55113785581598,Intermedio,Noelia Aquino,Gobernanza,Amarillo
-Aldea de la Selva Lodge,-25.61432772449358,-54.55525026020195,Intermedio,Carlos Suarez,Encargado de Mantenimiento,Amarillo
-Vivero Municipal,-25.60155246469943,-54.58871901533413,Avanzado,Alejandro Almeida,Encargado del Vivero Municipal,Verde
+Nombre  ,Latitude,Longitude,Estado ,Encargado ,Puesto o área responsable ,Tipo de ícono,Tipo de ícono
+Iguazú Jungle Lodge ,-25.5942571078592,-54.5657359379909,Inicial ,  ,  ,Amarillo,
+O2 Hotel Iguazú ,-25.5940583112227,-54.5750758270255,Avanzado ,Heriberto Martínez ,Encargado de Mantenimiento ,Verde,
+Loi Suites Iguazú ,-25.5964572323078,-54.5455347048578,Avanzado ,Wilfredo Sandoval ,Jefe de Mantenimiento ,Verde,
+Yvy ,-25.6102369850698,-54.551137855816,Avanzado ,Noelia Aquino ,Gobernanza ,Verde,
+Aldea de la Selva Lodge ,-25.6143277244936,-54.555250260202,Avanzado ,Carlos Suarez ,Encargado de Mantenimiento ,Verde,
+Vivero Municipal ,-25.6015524646994,-54.5887190153341,Avanzado ,Alejandro Almeida ,Encargado del Vivero Municipal ,Verde,
+Selva Laurel ,-25.6053609076719,-54.5520827590462,Intermedio ,Claudia Moreira ,  ,Amarillo,
